@@ -1,0 +1,30 @@
+﻿{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "https://www.dunsev.org/",
+  "image": "http://www.dunsev.org/Content/assets/global/img/dunsev.png",
+  "logo": "http://www.dunsev.org/Content/assets/global/img/dunsev.png",
+  "description": "DÜNSEVin resmi sitesine hoş geldiniz.",
+  "address": {
+    "@type": "Address",
+    "streetAddress": "1392.Sokak 14-16",
+    "addressLocality": "Balgat",
+    "addressRegion": "Ankara",
+    "country_code": "TR",
+    "zip": "06520",
+    "latitude": "39.9035",
+    "longitude": "32.821849",
+    "timezone": "Europe/Istanbul"
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.dunsev.org/Home/Search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "sameAs": [
+    "https://www.facebook.com/groups/Dunsev",
+    "https://www.youtube.com/c/D%C3%9CNYASEREBRALPALS%C4%B0DERNE%C4%9E%C4%B0D%C3%9CNSEVAnkara/",
+    "https://plus.google.com/112644570992038535832",
+    "http://dunsev.org/enUS/TwoColumns/Rss"
+  ]
+}

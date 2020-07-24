@@ -1,0 +1,41 @@
+﻿        body {
+        }
+
+        h2 {
+            font-size: 15px;
+            text-align: justify;
+            text-indent: 50px;
+        }
+
+        p {
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size: 15px;
+            text-indent: 50px;
+            text-align: justify;
+            margin-top: 3px;
+            margin-bottom: 3px;
+        }
+        ol {
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size: 15px;
+            text-indent: 50px;
+            text-align: justify;
+        }
+        h1 {
+            font-size: 15px;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        h4 {
+            font-size: 15px;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        h3 {
+            font-size: 15px;
+            font-weight: bold;
+            text-align: center;
+        }
+    
